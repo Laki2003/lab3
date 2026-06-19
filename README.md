@@ -11,3 +11,5 @@ The general implementation for the blockchain structure and logic lies in [block
 ## Contributions
 
 During the project, we were mostly developing in live sessions, where one of us mainly took charge in writing code, while others were testing and scanning for information. Furthermore, a large part of the codebase is written by AI, therefore if the contribution may feel inequal it was mostly not this way in reality.
+
+https://github.com/Laki2003/lab3
